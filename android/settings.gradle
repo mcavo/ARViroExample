@@ -1,0 +1,3 @@
+rootProject.name = 'ARViroExample'
+
+include ':app'
